@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.noties.markwon:image:4.6.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a9c80f7122599733ab9c9bd69ba3aeee/jetified-image-4.6.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a9c80f7122599733ab9c9bd69ba3aeee/jetified-image-4.6.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a9c80f7122599733ab9c9bd69ba3aeee/jetified-image-4.6.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.noties.markwon/image/4.6.2/303c2d89a61b2c132d7c30cef53c34747536210/image-4.6.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.noties.markwon/image/4.6.2/49016dacd9f92e6dd406f5d0418cee7da57267c3/image-4.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
