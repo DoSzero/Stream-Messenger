@@ -42,3 +42,7 @@ dependencies {
 </p>
 
 ![](Screenshot/14.png)
+
+# Use test acc to examine apk 
+AppleTest 
+# !! Registered yours Stream account and change KEY , if app will be disconnected
